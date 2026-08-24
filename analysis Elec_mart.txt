@@ -1,0 +1,104 @@
+Executive Dashboard : 
+Business Analysis: Analyzed quarterly sales performance and identified ₹51M → ₹160M revenue growth, with Q4 emerging as the strongest quarter.
+Profitability: Tracked revenue and profit trends, identifying ₹8M → ₹27M profit growth while maintaining ~16–17% margin.
+Customer & Product Insights: Identified Laptops and Smartphones as primary revenue drivers and Regular customers as the largest segment.
+Business Opportunity: Identified a sharp December revenue decline after strong October–November performance, highlighting a potential seasonal, demand, or inventory issue for further investigation.
+
+product & supplier :
+
+Strong Analyst-Level Insights
+1.High Supplier Dependency
+The top 3 suppliers make up around 38% of total procurement spending (₹298M of ₹793M).
+This means the company depends heavily on a few suppliers. If one has a problem, procurement could be affected.
+
+2.Pending Purchase Orders
+80% of POs are received, while 20% (30 POs) are still in transit or pending.
+These pending orders should be monitored to avoid delays in inventory.
+
+3.Supplier Cost vs. Delivery Time
+Supplier delivery times range from around 7–10 days.
+High-spending suppliers with longer delivery times need more attention because delays can affect inventory.
+
+4.Overall Rating Hides Supplier Problems
+The overall supplier rating is 4.42/5, which looks good.
+However, some suppliers have higher defect rates, so each supplier should be checked separately.
+
+5.Spending Concentrated on Few Suppliers
+The top 6 suppliers contribute around 59% of total procurement spending.
+The company could reduce risk by having more supplier options and negotiating better prices.
+
+6.High Value per Purchase Order
+Total procurement spending is ₹793M across 150 POs, which is about ₹5.29M per PO on average.
+Because each PO has a high value, even a few delayed or problematic orders can have a big impact on the business.
+
+Executive Dashboard – Key Analysis
+1,Q4 was the strongest quarter
+Revenue jumped from ₹59M in Q3 to ₹160M in Q4.
+Orders and customers also increased a lot, so Q4 was clearly the best-performing quarter.
+
+2.December needs attention
+Q4 started very strongly, with revenue of around ₹72M in October and ₹67M in November.
+But revenue fell to around ₹22M in December. I would check whether this was because of lower demand, stock issues, or any other business reason.
+
+3.Profit increased along with sales
+Profit went from around ₹10M in Q3 to ₹27M in Q4.
+Even with the big increase in sales, the profit margin stayed around 16–17%, which is a positive sign.
+
+4.Laptops and Smartphones are driving sales
+These two categories generate much more revenue than the other categories.
+They are the main products bringing revenue, but depending too much on them could also become a risk.
+
+5.Customer base grew strongly in Q4
+Customers increased from 476 in Q3 to around 1K in Q4.
+This is a good sign, but the next focus should be on getting these new customers to purchase again.
+
+6.Regular customers are the biggest group
+Around 60% of customers are Regular customers.
+Keeping these customers active and encouraging repeat purchases could help maintain future sales.
+
+7.Returns stayed under control
+The return rate stayed around 2–3% across the quarters.
+Even though sales increased sharply in Q4, returns did not increase significantly, which is a good sign.
+
+Inventory & Warehouse — Key Analyst Insights
+
+1.Inventory is heavily concentrated
+Mumbai and Ahmedabad together hold around ₹850M of inventory value, more than half of the total inventory.
+A problem in either warehouse could have a major impact on the business.
+
+2.Large storage capacity is going unused
+Warehouse utilization is only 24.6%, meaning most storage capacity is still unused.
+This suggests the company should improve inventory distribution before investing in more warehouse space.
+
+3.Stockout risk is hidden inside total stock
+The company has around 37K units in stock, but some products are already below their reorder levels.
+So looking only at total stock can give a false sense of safety; product-level stock needs to be monitored.
+
+4.Reserved and damaged stock reduce real availability
+Around 3K units are reserved and 454 units are damaged.
+This means a significant portion of total stock cannot be treated as freely available inventory.
+
+5.High-value products need tighter stock planning
+Smartphones and Laptops make up a large share of inventory value.
+Keeping too much stock can block working capital, while keeping too little can cause lost sales—so these categories need better demand-based inventory planning.
+
+1.Order Fulfillment & Logistics — Key Analyst Insights
+Most orders are being delivered, but pending orders need attention
+Around 2K orders are delivered, while 257 orders are still pending.
+The business should track these pending orders closely to avoid further delays and customer complaints.
+
+2.Delivery time is getting worse
+Average delivery time increased from around 3.1 days in January to 3.6+ days in October–November.
+This upward trend suggests that delivery efficiency may be getting weaker over time.
+
+3.Returns are creating a major cost
+The return rate is around 3.38%, but refunds have reached about ₹12M.
+This means returns are not just an operational issue—they are directly affecting business revenue.
+
+4.Some logistics partners perform much better than others
+Delivery orders vary significantly by logistics partner, with Delhivery and Blue Dart handling much higher volumes than several other partners.
+Their delivery quality and delay rates should be compared before deciding where to send more orders.
+
+5.Most payment failures are not the main problem—the bigger issue is why orders are returned
+Payment success is already around 91.44%, so payment processing is generally working well.
+The bigger opportunity is understanding the main return reasons, where defective products and products not matching expectations are among the leading causes.
